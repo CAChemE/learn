@@ -4,3 +4,18 @@
 
 ## TL;DR
 We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com) with [this technology](http://www.nature.com/news/ipython-interactive-demo-7.21492) (Nature and IPython)
+
+---
+
+## Some examples
+
+#### [Heterogeneous Continuous Stirred Tank Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Continuous-Stirred-Tank-Reactor/Heterogeneous-CSTR.ipynb)
+
+[![img](/Continuous-Stirred-Tank-Reactor/Het-CSTR-Python.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Continuous-Stirred-Tank-Reactor/Heterogeneous-CSTR.ipynb)
+
+#### [Langmuir adsorption model](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
+
+[![img](Adsorption/langmuir-two-components.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
+
