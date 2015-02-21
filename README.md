@@ -9,10 +9,10 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 
 ## Some examples
 
-#### [Heterogeneous Continuous Stirred Tank Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Continuous-Stirred-Tank-Reactor/Heterogeneous-CSTR.ipynb)
+#### [Heterogeneous Batch Stirred Tank Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
 
-[![img](/Continuous-Stirred-Tank-Reactor/Het-CSTR-Python.gif)
-](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Continuous-Stirred-Tank-Reactor/Heterogeneous-CSTR.ipynb)
+[![img](/Stirred-Tank-Reactor/Het-STR-Python.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
 
 #### [Langmuir adsorption model](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
 
