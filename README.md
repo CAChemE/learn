@@ -14,6 +14,11 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 [![img](/Stirred-Tank-Reactor/Het-STR-Python.gif)
 ](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
 
+#### [Scale-Up of a Batch Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Scale-Up/Batch-Reactor.ipynb)
+
+[![img](Scale-Up/reactor-temperature.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Scale-Up/Batch-Reactor.ipynb)
+
 #### [Langmuir adsorption model](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
 
 [![img](Adsorption/langmuir-two-components.gif)
