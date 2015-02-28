@@ -24,3 +24,8 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 [![img](Adsorption/langmuir-two-components.gif)
 ](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
 
+#### [Plug Flow Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/gas-PFR.ipynb)
+
+[![img](Plug-Flow-Reactor/PFR.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/gas-PFR.ipynb)
+
