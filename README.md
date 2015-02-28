@@ -19,8 +19,14 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 [![img](Scale-Up/reactor-temperature.gif)
 ](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Scale-Up/Batch-Reactor.ipynb)
 
+#### [Gas-phase Plug Flow Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/gas-PFR.ipynb)
+
+[![img](Plug-Flow-Reactor/PFR.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/gas-PFR.ipynb)
+
 #### [Langmuir adsorption model](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
 
 [![img](Adsorption/langmuir-two-components.gif)
 ](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
+
 
