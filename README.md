@@ -9,6 +9,11 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 
 ## Some examples
 
+#### [Tube Diameter effect on Plug Flow Reactors](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/diameter-effect-on-PFR.ipynb)
+
+[![img](Plug-Flow-Reactor/diameter-effect-plug-flow-reactor.gif)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
+
 #### [Heterogeneous Batch Stirred Tank Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
 
 [![img](/Stirred-Tank-Reactor/Het-STR-Python.gif)
