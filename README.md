@@ -17,7 +17,7 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 #### [Tube Diameter effect on Plug Flow Reactors](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/diameter-effect-on-PFR.ipynb)
 
 [![img](Plug-Flow-Reactor/diameter-effect-plug-flow-reactor.gif)
-](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
+](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/diameter-effect-on-PFR.ipynb)
 
 #### [Scale-Up of a Batch Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Scale-Up/Batch-Reactor.ipynb)
 
