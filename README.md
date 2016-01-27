@@ -23,7 +23,7 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 [![img](Plug-Flow-Reactor/diameter-effect-plug-flow-reactor.gif)
 ](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/diameter-effect-on-PFR.ipynb)
 
-## Other examples (in Spanish for the moment)
+## Other examples (in Spanish)
 #### [Scale-Up of a Batch Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Scale-Up/Batch-Reactor.ipynb)
 
 [![img](Scale-Up/reactor-temperature.gif)
