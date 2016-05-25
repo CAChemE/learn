@@ -1,6 +1,6 @@
 # Chemical and Process Engineering Interactive Simulations
 
-[We](http://cacheme.org) are preparing interactive IPython simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the user to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
+[We](http://cacheme.org) are preparing interactive IPython/Jupyter notebooks with simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the user to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
 
 :fire: **NEW!** [Try this code on your web-browser, no installation required!](http://mybinder.org/repo/CAChemE/learn)
 
