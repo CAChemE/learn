@@ -43,8 +43,9 @@ We wanted to reproduce [this work](http://www.learncheme.com/home) (learnChemE.c
 
 Some other ChemE resources using Python
 
-[chemics](https://chemics.github.io/)
+- [CBE30338](https://jckantor.github.io/CBE30338/)
+- [Kitchin Group Python Book](https://kitchingroup.cheme.cmu.edu/pycse/pycse.pdf)
+- [Cantera](https://cantera.org/)
+- [chemics](https://chemics.github.io/)
 
-[CBE30338](https://jckantor.github.io/CBE30338/)
 
-[Kitchin Group Python Book](https://kitchingroup.cheme.cmu.edu/pycse/pycse.pdf)
