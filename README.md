@@ -1,13 +1,13 @@
 # Chemical and Process Engineering Interactive Simulations
 
-[We](http://cacheme.org) are preparing interactive IPython/Jupyter notebooks with simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the user to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
+[We](http://cacheme.org) prepared interactive IPython/Jupyter notebooks with simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the user to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
 
 :fire: **NEW!** [Try this code on your web-browser, no installation required!](http://mybinder.org/repo/CAChemE/learn)
 
  Since we are using [IPython/Jupyter Notebooks](http://jupyter.org/), you  can also reproduce and modify them installing [Anaconda](http://continuum.io/downloads) (a completely free Python distribution, including for commercial use and redistribution).
 
 ## TL;DR
-We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com) with [this technology](http://www.nature.com/news/ipython-interactive-demo-7.21492) (Nature and IPython)
+We wanted to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com) with [this technology](http://www.nature.com/news/ipython-interactive-demo-7.21492) (Nature and IPython)
 
 ---
 
@@ -39,4 +39,12 @@ We want to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com
 [![img](Adsorption/langmuir-two-components.gif)
 ](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Adsorption/Langmuir-adsorption-python%20.ipynb)
 
+# Update
 
+Some other ChemE resources using Python
+
+[chemics](https://chemics.github.io/)
+
+[CBE30338](https://jckantor.github.io/CBE30338/)
+
+[Kitchin Group Python Book](https://kitchingroup.cheme.cmu.edu/pycse/pycse.pdf)
